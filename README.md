@@ -1,0 +1,2 @@
+# MinTest
+En init-övning
